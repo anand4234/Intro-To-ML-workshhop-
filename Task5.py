@@ -1,4 +1,4 @@
-#label encodin (giving a label to each input data)
+#label encoding (giving a label to each input data)
 import numpy as np 
 from sklearn import preprocessing 
 input_class=["Apple", "Mango", "Banana", "Litchi", "Guava"]
